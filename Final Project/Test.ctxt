@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=Test()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Test\n
+comment2.params=
+comment2.target=void\ printDimensions()
+comment2.text=\n\ Prints\ out\ the\ dimensions\ of\ the\ image\n
+numComments=3
